@@ -1,4 +1,4 @@
-## Progetto Spectral Clustering - Gruppo X
+## Progetto Spectral Clustering - Gruppo 12
 **Corso**: Architetture Avanzate dei Sistemi di Elaborazione
 **Anno Accademico**: 2026/2027
 **Università della Calabria**
